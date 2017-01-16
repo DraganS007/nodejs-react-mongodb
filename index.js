@@ -1,1 +1,1 @@
-console.log('Node is installed!');
+console.log('Node is installed for the first time!');
